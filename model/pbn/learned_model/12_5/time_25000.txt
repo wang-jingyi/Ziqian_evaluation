@@ -1,0 +1,4 @@
+Time for the whole process of learning: 125.215846053 s.
+Iteration number: 5.
+Time for translate learned model to prism format: 0.613588687 s.
+

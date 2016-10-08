@@ -1,0 +1,4 @@
+variables involved in the classifier: 
+[step, u, c, s, z, zx, zy, x, y]
+weights of the classifier: 
+[-3.714225912571237, 0.0, 0.0, 1.142487459540451, 0.5717003974000434, 0.0, 0.0, 0.0, 0.0]

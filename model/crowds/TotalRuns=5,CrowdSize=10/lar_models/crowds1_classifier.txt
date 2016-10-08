@@ -1,0 +1,4 @@
+variables involved in the classifier: 
+[runCount, observe0]
+weights of the classifier: 
+[0.0, 0.0]

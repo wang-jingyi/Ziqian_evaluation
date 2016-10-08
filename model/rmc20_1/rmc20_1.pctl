@@ -1,0 +1,21 @@
+P=? [ true U<=1000 s=1 ];
+P=? [ true U<=1000 s=2 ];
+P=? [ true U<=1000 s=3 ];
+P=? [ true U<=1000 s=4 ];
+P=? [ true U<=1000 s=5 ];
+P=? [ true U<=1000 s=6 ];
+P=? [ true U<=1000 s=7 ];
+P=? [ true U<=1000 s=8 ];
+P=? [ true U<=1000 s=9 ];
+P=? [ true U<=1000 s=10 ];
+P=? [ true U<=1000 s=11 ];
+P=? [ true U<=1000 s=12 ];
+P=? [ true U<=1000 s=13 ];
+P=? [ true U<=1000 s=14 ];
+P=? [ true U<=1000 s=15 ];
+P=? [ true U<=1000 s=16 ];
+P=? [ true U<=1000 s=17 ];
+P=? [ true U<=1000 s=18 ];
+P=? [ true U<=1000 s=19 ];
+P=? [ true U<=1000 s=20 ];
+

@@ -1,0 +1,4 @@
+csma.nm -const K=2,COL=4
+csma.nm -const K=2,COL=8
+csma.nm -const K=4,COL=4
+csma.nm -const K=4,COL=8

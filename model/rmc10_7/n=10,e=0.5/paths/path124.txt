@@ -1,0 +1,3 @@
+action step s
+- 0 1
+rmc10_7 1 1

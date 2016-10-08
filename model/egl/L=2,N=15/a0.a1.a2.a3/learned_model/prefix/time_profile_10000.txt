@@ -1,0 +1,10 @@
+Time for simulation: 2420.213851 s.
+Time for extracting relavent data: 70.958514 s.
+Time for the whole process of learning: 0.864755s.
+Learned model size: 0.
+Time for preparing data prefixes information: 0.551642 s.
+Total number of prefixes:1238.
+Time for core learning: 0.864254 s.
+Time for translate learned model to prism format: 6.9E-5 s.
+Time for formating learned model to .pm file: 3.9E-4 s.
+

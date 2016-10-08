@@ -1,0 +1,3 @@
+iteration 1 time is: 31.547537
+Time for the whole algorithm: 35.925251 s.
+

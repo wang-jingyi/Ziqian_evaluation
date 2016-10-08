@@ -1,0 +1,3 @@
+Time for the whole process of learning: 92.035969037 s.
+Time for translate learned model to prism format: 5.69668E-4 s.
+

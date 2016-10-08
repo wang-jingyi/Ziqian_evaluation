@@ -1,0 +1,1 @@
+ALL drawing data is available in respective sensor, when it is attack

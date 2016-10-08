@@ -1,0 +1,5 @@
+all the values from historian are healthy data
+
+When simulating LIT301 to low to run the dosing stage.
+
+Time of running system 1.23pm to 1.43pm

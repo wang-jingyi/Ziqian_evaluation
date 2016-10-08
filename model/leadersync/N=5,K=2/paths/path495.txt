@@ -1,0 +1,15 @@
+action step c s1 u1 v1 p1 s2 u2 v2 p2 s3 u3 v3 p3 s4 u4 v4 p4 s5 u5 v5 p5
+- 0 1 0 false 0 0 0 false 0 0 0 false 0 0 0 false 0 0 0 false 0 0
+[pick] 1 1 1 true 0 0 1 true 1 1 1 true 1 1 1 true 1 1 1 true 0 0
+[read] 2 2 1 true 1 0 1 false 1 1 1 false 1 1 1 true 0 1 1 false 0 0
+[read] 3 3 1 true 1 0 1 false 1 0 1 false 0 0 1 true 0 1 1 false 1 0
+[read] 4 4 1 true 1 0 1 false 0 0 1 false 0 0 1 false 1 1 1 false 1 0
+[read] 5 4 2 false 0 0 2 false 0 0 2 false 0 0 2 false 0 1 2 false 0 0
+[retry] 6 1 0 false 0 0 0 false 0 0 0 false 0 0 0 false 0 0 0 false 0 0
+[pick] 7 1 1 true 0 0 1 true 1 1 1 true 0 0 1 true 0 0 1 true 0 0
+[read] 8 2 1 true 1 0 1 true 0 1 1 false 0 0 1 false 0 0 1 false 0 0
+[read] 9 3 1 false 0 0 1 true 0 1 1 false 0 0 1 false 0 0 1 false 1 0
+[read] 10 4 1 false 0 0 1 true 0 1 1 false 0 0 1 false 1 0 1 false 0 0
+[read] 11 4 2 false 0 0 2 true 0 0 2 false 0 0 2 false 0 0 2 false 0 0
+[done] 12 4 3 false 0 0 3 false 0 0 3 false 0 0 3 false 0 0 3 false 0 0
+[loop] 13 4 3 false 0 0 3 false 0 0 3 false 0 0 3 false 0 0 3 false 0 0

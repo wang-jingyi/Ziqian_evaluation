@@ -1,0 +1,42 @@
+P>=1 [ F "elected" ]
+
+P=? [ true U<=5 "elected" ]
+
+P=? [ true U<=15 "elected" ]
+
+P=? [ true U<=10 "elected" ]
+
+P=? [ true U<=20 "elected" ]
+
+P=? [ true U<=25 "elected" ]
+
+P=? [ true U<=30 "elected" ]
+
+P=? [ true U<=35 "elected" ]
+
+P=? [ true U<=40 "elected" ]
+
+P=? [ true U<=45 "elected" ]
+
+P=? [ true U<=50 "elected" ]
+
+P=? [ true U<=55 "elected" ]
+
+P=? [ true U<=60 "elected" ]
+
+P=? [ true U<=65 "elected" ]
+
+P=? [ true U<=70 "elected" ]
+
+P=? [ true U<=75 "elected" ]
+
+P=? [ true U<=80 "elected" ]
+
+P=? [ true U<=85 "elected" ]
+
+P=? [ true U<=90 "elected" ]
+
+P=? [ true U<=95 "elected" ]
+
+P=? [ true U<=100 "elected" ]
+

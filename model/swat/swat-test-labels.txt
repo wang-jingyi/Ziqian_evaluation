@@ -1,0 +1,4 @@
+state id: 1, state label : [8]
+state id: 2, state label : [6, 6]
+state id: 3, state label : [8, 6]
+

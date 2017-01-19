@@ -1,0 +1,9 @@
+state id: 1, label: empty
+state id: 2, label: 1011111
+state id: 3, label: 1010111
+state id: 4, label: 1010010
+state id: 5, label: 1010000
+state id: 6, label: 1000000
+state id: 7, label: 1100000
+state id: 8, label: 1010011
+state id: 9, label: 1010001

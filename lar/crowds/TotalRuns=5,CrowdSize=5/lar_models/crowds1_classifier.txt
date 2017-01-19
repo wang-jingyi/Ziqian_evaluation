@@ -1,0 +1,4 @@
+variables involved in the classifier: 
+[runCount, lastSeen, observe0]
+weights of the classifier: 
+[2.27265088170725E-5, -2.651326394698117E-5, -6.211713030097599E-4]

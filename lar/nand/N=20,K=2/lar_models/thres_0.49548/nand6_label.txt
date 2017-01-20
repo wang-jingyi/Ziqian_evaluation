@@ -1,0 +1,26 @@
+state id: 1, label: 
+state id: 2, label: 1001110
+state id: 3, label: 1001100
+state id: 4, label: 1001000
+state id: 5, label: 1000110
+state id: 6, label: 1000100
+state id: 7, label: 1000000
+state id: 8, label: 1000111
+state id: 9, label: 1001111
+state id: 10, label: 1001111
+state id: 11, label: 1000111
+state id: 12, label: 1000101
+state id: 13, label: 1001101
+state id: 14, label: 1001111
+state id: 15, label: 1000111
+state id: 16, label: 1000001
+state id: 17, label: 1001001
+state id: 18, label: 1000111
+state id: 19, label: 1011111
+state id: 20, label: 1010111
+state id: 21, label: 1000001
+state id: 22, label: 1111001
+state id: 23, label: 1100001
+state id: 24, label: 1000001
+state id: 25, label: 1111001
+state id: 26, label: 1100001

@@ -1,3 +1,0 @@
-experiment started around 10.10am but, collect data from 10.15am to 10.35am 
-sensor: FOT502
-without any attack

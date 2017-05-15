@@ -1,0 +1,14 @@
+
+++++++ Running time profile for the run starting at 2017/05/05 00:53:26 ++++++
+--- Verification result: true ---
+--- Time for whole algorithm: 38.152117 s
+=== Time for each iteration: [13.289457, 12.471974, 12.389874] s ===
+::: Divided time for each iteration :::
+- Time for learning: [8.948639, 8.733821, 8.992737] s
+- Time for PRISM model checking: [3.534957, 3.367387, 3.397087] s
+- Time for counterexample generation: [0.030057, 0.002754] s
+- Time for hypothesis testing: [0.016025, 0.005955] s
+- Time for identifying spurious transtions: [0.069589, 0.069186] s
+- Time for generating a new predicate: [0.686703, 0.292648] s
+
+

@@ -1,0 +1,4 @@
+- Variables involved in the classifier: 
+[step, launch, new, runCount, start, run, lastSeen, good, bad, recordLast, badObserve, deliver, done, observe0, observe1, observe2, observe3, observe4, observe5, observe6, observe7, observe8, observe9, observe10, observe11, observe12, observe13, observe14, observe15, observe16, observe17, observe18, observe19]
+- Weights of the classifier: 
+[-2.041450898104813E-6, 0.0, 0.0, 1.9999469859963313, 0.001324065569262663, -0.0013240655692499104, -1.2764418282529277E-4, 3.058983949273397E-4, 3.048879548330774E-4, 0.0, 0.0, -2.0002685234515525, 0.0, -3.02402406902047E-5, 3.311686409546155E-6, -3.5656532126893126E-5, 9.121552881907746E-6, 2.432891650272495E-5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]

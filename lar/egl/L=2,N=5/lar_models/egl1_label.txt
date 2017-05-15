@@ -1,5 +1,0 @@
-state id: 1, label: 
-state id: 2, label: 100
-state id: 3, label: 110
-state id: 4, label: 101
-state id: 5, label: 111

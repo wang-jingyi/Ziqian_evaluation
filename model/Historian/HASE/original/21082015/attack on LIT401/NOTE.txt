@@ -1,7 +1,0 @@
-start time: 9.10pm
-attack on LIT401 and collect FIT502 and P401
-attack at: 9.20pm
-remove attack at: 9.25pm
-attack at 9.30pm
-remove attack at: 9.35pm
-stop by : 9.40pm

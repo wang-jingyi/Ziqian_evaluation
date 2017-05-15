@@ -1,3 +1,0 @@
-iteration 1 time is: 80.186087715
-Time for the whole algorithm: 89.269500984 s.
-

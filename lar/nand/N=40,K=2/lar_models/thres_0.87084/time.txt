@@ -1,7 +1,0 @@
-iteration 1 time is: 29.626112625
-iteration 2 time is: 61.344709245
-iteration 3 time is: 140.73370596
-iteration 4 time is: 313.578353273
-iteration 5 time is: 446.751292229
-Time for the whole algorithm: 554.495629139 s.
-

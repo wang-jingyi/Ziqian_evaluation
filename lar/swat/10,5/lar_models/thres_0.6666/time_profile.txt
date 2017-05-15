@@ -1,0 +1,14 @@
+
+++++++ Running time profile for the run starting at 2017/05/04 23:02:10 ++++++
+--- Verification result: true ---
+--- Time for whole algorithm: 58.971901 s
+=== Time for each iteration: [5.101472, 4.616145, 5.206715, 4.680343, 5.550078, 7.282177, 7.372729, 8.827308, 10.333877] s ===
+::: Divided time for each iteration :::
+- Time for learning: [1.112329, 1.011296, 0.927915, 0.985745, 1.111773, 2.12059, 2.220141, 3.817652, 6.616323] s
+- Time for PRISM model checking: [3.609713, 3.411461, 3.488933, 3.399869, 3.454293, 3.403453, 3.410835, 3.395335, 3.717522] s
+- Time for counterexample generation: [0.058038, 0.001577, 0.001963, 0.002455, 0.006064, 0.58876, 0.414138, 0.807232] s
+- Time for hypothesis testing: [0.019874, 0.00754, 0.004206, 0.004617, 0.004395, 0.003638, 0.003429, 0.003962] s
+- Time for identifying spurious transtions: [0.068778, 0.018359, 0.004175, 0.005253, 0.004944, 0.06323, 0.033519, 0.01119] s
+- Time for generating a new predicate: [0.228922, 0.165715, 0.779324, 0.282243, 0.968425, 1.102339, 1.290467, 0.791772] s
+
+

@@ -1,4 +1,0 @@
-attack on AIT201
-system running time is: 11.40 to 12.10
-attack tme: 11.50
-instead of attacking AIT201, directly attacking P201.

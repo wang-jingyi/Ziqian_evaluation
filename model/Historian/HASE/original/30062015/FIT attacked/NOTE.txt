@@ -1,2 +1,0 @@
-all historian data is collected here when the FIT201 is under attack after 10 mins
-system running duration 1.53pm to 2.13pm and attack FIT201(=0.55) around 2.03pm

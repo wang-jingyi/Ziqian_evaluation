@@ -20,8 +20,9 @@ In the following, we use crowds case study with configuration TotalRuns=5,CrowdS
 The options can be left by default.
 
 To reproduce SWaT case study, the following parameters are different and several options should be turned on.
+
 * <model>              The model to sample new traces for hypothesis testing.     /path/to/swat/simulator
-* <model_setting>      The model setting to sample new traces for hypothesis testing.   5,1
+* <model_setting>      The model setting to sample new traces for hypothesis testing.   5,1/5,5/10,5 (for config 1/2/3)
 * --collect             Whether to collect all or part of the concrete states.     --collect=true
 * --sampler=<sampler>   The sampler to sample a new path.     --sampler=swat
 * --random_length       Whether the sample length is randmized.     --random_length=true

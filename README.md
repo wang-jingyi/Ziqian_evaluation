@@ -40,3 +40,7 @@ To reproduce *SWaT* case study, the following parameters are different and sever
   ***--random_length***       Whether the sample length is randmized.     *--random_length=true*
   
   ***--random_seed***         The random seed for random generator.     *--random_seed=325965/562483/379824 (for config 1/2/3 respectively)*
+
+
+### Contact ###
+Reach me via wangjyee@gmail.com if you have any problem running the tool.

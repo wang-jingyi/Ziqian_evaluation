@@ -14,13 +14,12 @@ In the following, we use crowds case study with configuration TotalRuns=5,CrowdS
 * <trace_path>         The directory path containing all the system traces.     ./LAR/crowds/TotalRuns=5,CrowdSize=5/paths
 * <property_path>      The path to the property to verify.          ./LAR/crowds/TotalRuns=5,CrowdSize=5/input/crowds_learn_1.pctl
 * <result_path>        The directory path to store the results.     ./LAR/crowds/TotalRuns=5,CrowdSize=5
-* <model>              The model to sample new traces for hypothesis testing.     ./LAR/crowds/TotalRuns=5,CrowdSize=5/input/crowds.pm
+* <model>               The model to sample new traces for hypothesis testing.     ./LAR/crowds/TotalRuns=5,CrowdSize=5/input/crowds.pm
 * <model_setting>      The model setting to sample new traces for hypothesis testing.   TotalRuns=5,CrowdSize=5
   
 The options can be left by default.
 
 To reproduce SWaT case study, the following parameters are different and several options should be turned on.
-
 * <model>              The model to sample new traces for hypothesis testing.     /path/to/swat/simulator
 * <model_setting>      The model setting to sample new traces for hypothesis testing.   5,1/5,5/10,5 (for config 1/2/3)
 * --collect             Whether to collect all or part of the concrete states.     --collect=true

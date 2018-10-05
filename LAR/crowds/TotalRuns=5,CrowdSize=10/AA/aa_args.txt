@@ -1,0 +1,1 @@
+crowds /Users/jingyi/work/TSE_experiment/LAR/crowds/TotalRuns=5,CrowdSize=10/paths /Users/jingyi/work/TSE_experiment/LAR/crowds/TotalRuns=5,CrowdSize=10/AA /Users/jingyi/work/TSE_experiment/LAR/crowds/vars --additional_traces=/Users/jingyi/work/TSE_experiment/LAR/crowds/TotalRuns=5,CrowdSize=10/thres=0.12576/exp-04:24:05/lar_paths

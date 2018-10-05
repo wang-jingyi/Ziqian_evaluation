@@ -8,7 +8,7 @@
 - Time for PRISM model checking: [3.421788, 3.35969, 3.407606, 3.357703, 3.414174, 3.317357] s
 - Time for counterexample generation: [0.052203, 0.043598, 0.017628, 0.010979, 0.011184] s
 - Time for hypothesis testing: [0.015717, 0.003447, 0.003738, 0.002405, 0.002469] s
-- Time for identifying spurious transtions: [0.072883, 0.041389, 0.004867, 0.004574, 0.004714] s
+- Time for identifying spurious transtions: [0.072883, 0.041389, 0.004867, 0.004574, 80.004714] s
 - Time for generating a new predicate: [0.191959, 1.007375, 0.925897, 0.546072, 0.644202] s
 
 

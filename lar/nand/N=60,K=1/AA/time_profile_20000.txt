@@ -1,2 +1,0 @@
-Time for the whole algorithm: 2762.50605 s.
-

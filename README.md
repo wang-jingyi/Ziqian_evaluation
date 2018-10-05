@@ -9,7 +9,7 @@ This repository contains the experiment results of several research papers:
 
 ## Guide to reprodue the LAR experiements ##
 ### Parameter setting for running [LAR](https://github.com/wang-jingyi/Ziqian) tool ###
-In the following, we use crowds case study with configuration TotalRuns=5,CrowdSize=5 as an example.
+In the following, we use *crowds* case study with configuration TotalRuns=5,CrowdSize=5 as an example.
 
   ***model_name***         The name of the system to learn.     *crowds*
   
@@ -27,7 +27,7 @@ In the following, we use crowds case study with configuration TotalRuns=5,CrowdS
   
 The options can be left by default.
 
-To reproduce SWaT case study, the following parameters are different and several options should be turned on.
+To reproduce *SWaT* case study, the following parameters are different and several options should be turned on.
 
   ***model***              The model to sample new traces for hypothesis testing.     */path/to/swat/simulator*
   

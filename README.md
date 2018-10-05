@@ -25,7 +25,7 @@ In the following, we use *crowds* case study with configuration TotalRuns=5,Crow
   
   
   
-The options can be left by default.
+The options can be left by default with *--alpha=0.05 --beta=0.05, --sigma=0.05 --min_acc=0.8 --max_iter=20 --collect=false --loop=false --delimiter=" " --step=1 --length=20000 --epsilon=64 --sampler=prism --random_length=false --random_seed=777*.
 
 To reproduce *SWaT* case study, the following parameters are different and several options should be turned on.
 

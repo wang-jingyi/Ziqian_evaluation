@@ -31,7 +31,7 @@ To reproduce *SWaT* case study, the following parameters are different and sever
 
   ***model***              The model to sample new traces for hypothesis testing.     */path/to/swat/simulator*
   
-  ***model_setting***      The model setting to sample new traces for hypothesis testing.   *5,1/5,5/10,5 (for config 1/2/3)*
+  ***model_setting***      The model setting to sample new traces for hypothesis testing.   *5,1/5,5/10,5 (for config 1/2/3 respectively)*
   
   ***--collect***             Whether to collect all or part of the concrete states.     *--collect=true*
   
